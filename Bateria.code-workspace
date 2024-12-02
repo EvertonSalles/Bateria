@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Bateria",
+			"path": "."
+		},
+		{
+			"name": "sounds",
+			"path": "D:/Jogos/61056a26bbbb824373cfe7d8/sounds"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Bateria"
+	}
+}
